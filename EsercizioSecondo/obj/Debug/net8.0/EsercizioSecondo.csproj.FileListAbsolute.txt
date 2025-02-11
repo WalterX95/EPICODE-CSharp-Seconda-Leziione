@@ -1,0 +1,14 @@
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\bin\Debug\net8.0\EsercizioSecondo.exe
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\bin\Debug\net8.0\EsercizioSecondo.deps.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\bin\Debug\net8.0\EsercizioSecondo.runtimeconfig.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\bin\Debug\net8.0\EsercizioSecondo.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\bin\Debug\net8.0\EsercizioSecondo.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.AssemblyInfoInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.AssemblyInfo.cs
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.csproj.CoreCompileInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\refint\EsercizioSecondo.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\EsercizioSecondo.genruntimeconfig.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\SecondaLezione\Esercizio\EsercizioSecondo\EsercizioSecondo\obj\Debug\net8.0\ref\EsercizioSecondo.dll
